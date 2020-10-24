@@ -16,5 +16,5 @@ location:
     url: https://www.instagram.com/bullshamburgueriagoiania/
     lon: -49.2698586
     lat: -16.7068879
-hiatus: False
+hiatus: True
 ---
